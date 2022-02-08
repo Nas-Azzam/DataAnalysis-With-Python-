@@ -7,7 +7,7 @@
 
 # 1-Heading
 
-## Heading 1
+## Headiing 1
 
 ### Heading 2
 
